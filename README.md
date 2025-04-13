@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valentinetemi
+- 👋 Hi, I’m @Temiloluwa Valentine
 - 👀 I’m interested in Artificial Intelligence and Robotics
 - 🌱 I’m currently learning Aritifical Intelligence and Robotics
 - 💞️ I’m looking to collaborate on Aritifical Intelligence 
