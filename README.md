@@ -11,11 +11,12 @@ I’m a passionate Software Engineer dedicated to building innovative digital pr
 💻 What I Do
 
 - **Frontend Development** — HTML, CSS, JavaScript, TailwindCSS  
-- **AI/ML Projects** — Chatbots, NLP-based tools (currently exploring weather prediction models)  
+- **AI/ML Projects** — Chatbots, NLP-based tools. 
 - **Backend Engineering** — PHP (currently), learning Node.js & Firebase  
 - **Mobile Development** — Rapidly mastering Flutter for cross-platform apps  
 - **Product & Brand Design** — UI/UX, logos, product mockups (Figma, Canva, Behance)  
 - **Mission-Driven Tech** — Working on a mobile app MVP to bridge digital literacy gaps in underserved communities
+- **Robotics (Aspirational) — Exploring the future of robotics by combining AI, ML, and embedded systems
 
 ---
 
