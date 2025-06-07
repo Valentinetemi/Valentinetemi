@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Temiloluwa
 
-Computer Science Major | AI/ML & Backend Developer | Software Engineer | UI/UX & Brand Designer
+Computer Science Major | AI/ML & Backend Developer | Software Engineer | UI/UX & Brand Designer |Aspiring Robotic Engineer 
 
 ---
 
