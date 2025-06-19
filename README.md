@@ -10,9 +10,9 @@ I’m a passionate Software Engineer dedicated to building innovative digital pr
 
 💻 What I Do
 
-- **Frontend Development** — HTML, CSS, JavaScript, TailwindCSS  
+- **Frontend Development** — HTML, CSS, JavaScript  
 - **AI/ML Projects** — Chatbots, NLP-based tools. 
-- **Backend Engineering** — PHP (currently), learning Node.js & Firebase  
+- **Backend Engineering** — PHP, Python
 - **Mobile Development** — Rapidly mastering Flutter for cross-platform apps  
 - **Product & Brand Design** — UI/UX, logos, product mockups (Figma, Canva, Behance)  
 - **Mission-Driven Tech** — Working on a mobile app MVP to bridge digital literacy gaps in underserved communities
@@ -25,24 +25,25 @@ I’m a passionate Software Engineer dedicated to building innovative digital pr
 | Frontend       | Backend        | AI/ML        | Design        | Others           |
 |----------------|----------------|--------------|----------------|------------------|
 | HTML5, CSS, JS | PHP, Python    | NLP, Pandas  | Figma, Canva   | Git & GitHub     |
-| TailwindCSS,   | (Learning      | (Learning scikit-learn)       | Postman, VS Code |
-| Flutter        | Node.js, Firebase) |
+| (Learning      |                | Learning (scikit-learn)       | Postman, VS Code |
+| Flutter        |  |
 ---
 
 📂 Featured Projects
 
 - **AI Chatbot** – Built with Python and NLP  
-- **Responsive Brand Websites** – Custom UI for fashion, tech, and café brands  
+- **Responsive Brand Websites** – Custom UI for fashion, tech, and café brands
+- **Budget Hero - A c++ console game aim to help bridge finicial literacy
 - **Personal Portfolio** – In development, showcasing design and engineering work  
 - **Digital Literacy App (MVP)** – A mobile-first learning platform in progress
 
-> Want to see more? Check out my pinned repos below or browse my [Behance Portfolio](https://www.behance.net/temilolvalenti).
+> Want to see more? Check out my pinned repos below or browse my [LINKEDIN Portfolio](https://www.linkedin.com/in/temiloluwa-valentine-005882293/).
 
 ---
 
  📌 Currently
 
-- Building 5 niche-based websites to grow my dev portfolio  
+- Building 4 niche-based project to grow my dev portfolio  
 - Developing a mobile MVP focused on digital literacy  
 - Practicing advanced AI/ML techniques and mobile development  
 - Open to **remote software engineering internships** or freelance work
