@@ -24,8 +24,8 @@ I’m a passionate Software Engineer dedicated to building innovative digital pr
 
 | Frontend       | Backend        | AI/ML        | Design        | Others           |
 |----------------|----------------|--------------|----------------|------------------|
-| HTML5, CSS, JS | PHP, Python    | NLP,         | Figma, Canva  |         | Git & GitHub     |
-| (Learning      |                | Learning (scikit-learn)       |  Postman, VS Code |
+| HTML5, CSS, JS | PHP, Python    | NLP,         | Figma, Canva     | Git & GitHub     |
+| (Learning      |                | Learning (scikit-learn)    |     Postman, VS Code |
 | Flutter        |  |
 ---
 
