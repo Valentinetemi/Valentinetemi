@@ -24,7 +24,7 @@ I’m a passionate Software Engineer dedicated to building innovative digital pr
 
 | Frontend       | Backend        | AI/ML        | Design        | Others           |
 |----------------|----------------|--------------|----------------|------------------|
-| HTML5, CSS, JS | PHP, Python    | NLP, | Figma, Canva           | Git & GitHub     |
+| HTML5, CSS, JS | PHP, Python    | NLP,         | Figma, Canva  |         | Git & GitHub     |
 | (Learning      |                | Learning (scikit-learn)       |  Postman, VS Code |
 | Flutter        |  |
 ---
@@ -33,7 +33,7 @@ I’m a passionate Software Engineer dedicated to building innovative digital pr
 
 - **AI Chatbot** – Built with Python and NLP  
 - **Responsive Brand Websites** – Custom UI for fashion, tech, and café brands
-- **Budget Hero - A c++ console game aim to help bridge finicial literacy
+- **Budget Hero** - A c++ console game aim to help bridge finicial literacy
 - **Personal Portfolio** – In development, showcasing design and engineering work  
 - **Digital Literacy App (MVP)** – A mobile-first learning platform in progress
 
