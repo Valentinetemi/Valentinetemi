@@ -42,8 +42,7 @@ I’m a passionate Software Engineer dedicated to building innovative digital pr
 ---
 
  📌 Currently
-
-- Building 4 niche-based project to grow my dev portfolio  
+ 
 - Developing a mobile MVP focused on digital literacy  
 - Practicing advanced AI/ML techniques and mobile development  
 - Open to **remote software engineering internships** or freelance work
