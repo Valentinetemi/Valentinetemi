@@ -10,10 +10,9 @@ I’m a passionate Software Engineer dedicated to building innovative digital pr
 
 💻 What I Do
 
-- **Frontend Development** — HTML, CSS, JavaScript  
+- **Frontend Development** — HTML, CSS, JavaScript, React, TypeScriptCSS, Tailwind, NextJS
 - **AI/ML Projects** — Chatbots, NLP-based tools
-- **Backend Engineering** — PHP, Python, Flask
-- **Mobile Development** — Rapidly mastering Flutter for cross-platform apps  
+- **Backend Engineering** — PHP, Python, Flask, supabase.
 - **Product & Brand Design** — UI/UX, logos, product mockups (Figma, Canva, Behance)  
 - **Mission-Driven Tech** — Working on a mobile app MVP to bridge digital literacy gaps in underserved communities
 - **Robotics (Aspirational) — Exploring the future of robotics by combining AI, ML, and embedded systems
@@ -24,8 +23,8 @@ I’m a passionate Software Engineer dedicated to building innovative digital pr
 
 | Frontend       | Backend        | AI/ML        | Design        | Others           |
 |----------------|----------------|--------------|----------------|------------------|
-| HTML5, CSS, JS | PHP, Python, Flask   | NLP,         | Figma, Canva     | Git & GitHub     
-| (Learning Flutter)     |                | Learning (scikit-learn)| |  Postman, VS Code 
+| HTML5, CSS, JS, TypeScript, TailwindCSS, NextJS, React | PHP, Python, Flask   | NLP,         | Figma, Canva     | Git & GitHub     
+|      |                | Learning (scikit-learn)| |  Postman, VS Code 
 |        
 ---
 
