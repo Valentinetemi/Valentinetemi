@@ -1,57 +1,15 @@
-# 👋 Hi, I'm Temiloluwa
+# Hey, I’m Temiloluwa Valentine 👋
+300L CS Student | Building 2 AI Startups 🚀  
+FoodShare 🍴 + AI Trash Detector 🤖  
+AI & Robotics | Documenting my journey
 
-Computer Science Major | Software Engineer | AI/ML & Backend Developer | UI/UX & Brand Designer | Aspiring Robotic Engineer 
+- Passionate about AI, ML, and Robotics 🤖
+- Coding since 2023 🖥️
+  
+## Projects
+- **FoodShare** 🍴 — AI-powered food app, MVP almost done
+- **AI Trash Detector** ♻️ — Detects plastics, metals, and more
+  
+### Tech Stack
+Python | C++ | AI/ML | Computer Vision | React | NextJs | Typescript
 
----
-
-I’m a passionate Software Engineer dedicated to building innovative digital products — from intuitive user interfaces to intelligent backend systems and AI-powered applications. With a solid foundation in both design and development, I bridge creativity and logic to solve real-world problems, especially in the area of digital literacy.
-
----
-
-💻 What I Do
-
-- **Frontend Development** — HTML, CSS, JavaScript, React, TypeScriptCSS, Tailwind, NextJS
-- **AI/ML Projects** — Chatbots, NLP-based tools
-- **Backend Engineering** — PHP, Python, Flask, supabase.
-- **Product & Brand Design** — UI/UX, logos, product mockups (Figma, Canva, Behance)  
-- **Mission-Driven Tech** — Working on a mobile app MVP to bridge digital literacy gaps in underserved communities
-- **Robotics (Aspirational) — Exploring the future of robotics by combining AI, ML, and embedded systems
-
----
-
-## 🛠️ Technologies & Tools
-
-| Frontend       | Backend        | AI/ML        | Design        | Others           |
-|----------------|----------------|--------------|----------------|------------------|
-| HTML5, CSS, JS, TypeScript, TailwindCSS, NextJS, React | PHP, Python, Flask   | NLP,         | Figma, Canva     | Git & GitHub     
-|      |                | Learning (scikit-learn)| |  Postman, VS Code 
-|        
----
-
-📂 Featured Projects
-
-- **AI Chatbot** – Built with Python and NLP  
-- **Responsive Brand Websites** – Custom UI for fashion, tech, and café brands
-- **Budget Hero** - A c++ console game aim to help bridge finicial literacy
-- **Personal Portfolio** – In development, showcasing design and engineering work  
-- **Digital Literacy App (MVP)** – A mobile-first learning platform in progress
-
-> Want to see more? Check out my pinned repos below or browse my [LINKEDIN Portfolio](https://www.linkedin.com/in/temiloluwa-valentine-005882293/).
-
----
-
- 📌 Currently
- 
-- Developing a mobile MVP focused on digital literacy  
-- Practicing advanced AI/ML techniques and mobile development  
-- Open to **remote software engineering internships** or freelance work
-
----
-
- 📫 Connect With Me
-
-- 💼 [LinkedIn](www.linkedin.com/in/temiloluwa-valentine-005882293)  
-- 🎨 [Behance](https://www.behance.net/temilolvalenti)  
-- 📌 [Pinterest](https://www.pinterest.com/TemiloluwaValentine/)  
-
-> 💡 *Building the future, one intelligent solution at a time.*
