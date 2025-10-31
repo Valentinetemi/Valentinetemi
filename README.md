@@ -121,7 +121,6 @@ graph LR
 ![Python](https://img.shields.io/badge/PYTHON_3.11-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=000000)
 ![YOLOv8](https://img.shields.io/badge/YOLOV8_ULTRA-00FFFF?style=for-the-badge&logo=yolo&logoColor=000&labelColor=000000)
 ![OpenCV](https://img.shields.io/badge/OPENCV_4.8-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW_2.15-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
 ![Colab](https://img.shields.io/badge/COLAB_PRO-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000)
 
 ### INTERFACE LAYER
@@ -129,13 +128,23 @@ graph LR
 ![React](https://img.shields.io/badge/REACT_18-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=000000)
 ![Next.js](https://img.shields.io/badge/NEXT.JS_14-ffffff?style=for-the-badge&logo=next.js&logoColor=000&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![HTML](https://img.shields.io/badge/HTML_3-06B6D4?style=for-the-badge&logo=html&logoColor=white&labelColor=000000)
 ![Tailwind](https://img.shields.io/badge/TAILWIND_3-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
+![CSS](https://img.shields.io/badge/CSS_3-06B6D4?style=for-the-badge&logo=css&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT_3-06B6D4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
 
 ### QUANTUM TOOLS
 
 ![Git](https://img.shields.io/badge/GIT_PROTOCOL-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![Roboflow](https://img.shields.io/badge/ROBOFLOW_AI-6706CE?style=for-the-badge&logo=roboflow&logoColor=white&labelColor=000000)
 ![VS_Code](https://img.shields.io/badge/VS_CODE_NEXUS-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000)
+
+### AI ACCELERATORS
+
+![v0](https://img.shields.io/badge/V0.DEV-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
+![Cursor](https://img.shields.io/badge/CURSOR_AI-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00d9ff&labelColor=000000)
+![Lovable](https://img.shields.io/badge/LOVABLE.DEV-FF006E?style=for-the-badge&logo=heart&logoColor=white&labelColor=000000)
+![Canva](https://img.shields.io/badge/CANVA_DESIGN-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000)
 
 </div>
 
