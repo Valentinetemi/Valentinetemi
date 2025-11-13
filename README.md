@@ -179,7 +179,7 @@ I'm always open to:
 
 ## 🌍 Building from Nigeria
 
-![Location](https://img.shields.io/badge/📍_Lagos,_Nigeria-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white)
+![Location](https://img.shields.io/badge/📍Nigeria-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white)
 
 **"Learning to build robots that solve real problems."** 🤖♻️
 
