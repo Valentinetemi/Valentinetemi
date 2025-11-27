@@ -51,7 +51,7 @@ Building an AI system that detects and classifies waste materials (plastic, alum
 
 ---
 
-## 📚 Learning Journey (Day 48/100)
+## 📚 Learning Journey (Day 61/100)
 
 **What I'm Currently Learning:**
 
@@ -137,11 +137,11 @@ Building an AI system that detects and classifies waste materials (plastic, alum
 
 ---
 
-## 🎯 Current Goals (Days 48-100)
+## 🎯 Current Goals (Days 61-100)
 
 | Goal | Progress | Target |
 |------|----------|--------|
-| 🎓 Complete #100DaysOfBuildingAI | Day X/100 | Day 100 |
+| 🎓 Complete #100DaysOfBuildingAI | Day 61/100 | Day 100 |
 | 🔗 Master DSA Fundamentals | 📚 Learning | Solid foundation |
 | 🧮 Learn Linear Algebra & Calculus | 📚 In Progress | Deep understanding |
 | 🤖 Complete Arduino Simulations | 📋 Starting | 10+ projects |
