@@ -22,7 +22,7 @@ Right now, I'm building the foundation: **DSA, mathematics, AI, and robotics fun
 
 **Current Focus:** Building **TracelyAI** – an AI-powered waste sorting system for Nigeria. It's my training ground for combining software (computer vision) with hardware (robotics).
 
-**Journey:** Day 74/100 of #100DaysOfBuildingAI 🔥
+**Journey:** Day 75/100 of #100DaysOfBuildingAI 🔥
 
 ---
 
@@ -51,7 +51,7 @@ Building an AI system that detects and classifies waste materials (plastic, alum
 
 ---
 
-## 📚 Learning Journey (Day 74/100)
+## 📚 Learning Journey (Day 75/100)
 
 **What I'm Currently Learning:**
 
@@ -141,7 +141,7 @@ Building an AI system that detects and classifies waste materials (plastic, alum
 
 | Goal | Progress | Target |
 |------|----------|--------|
-| 🎓 Complete #100DaysOfBuildingAI | Day 74/100 | Day 100 |
+| 🎓 Complete #100DaysOfBuildingAI | Day 75/100 | Day 100 |
 | 🔗 Master DSA Fundamentals | 📚 Learning | Solid foundation |
 | 🧮 Learn Linear Algebra & Calculus | 📚 In Progress | Deep understanding |
 | 🤖 Complete Arduino Simulations | 📋 Starting | 10+ projects |
@@ -185,6 +185,6 @@ I'm always open to:
 
 ---
 
-*Last Updated: November 2025 · Day 74 of #100DaysOfBuildingAI*
+*Last Updated: November 2025 · Day 75 of #100DaysOfBuildingAI*
 
 </div>
