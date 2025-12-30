@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Temiloluwa Valentine
 
-### 17 · 300L Computer Science Student · AI Builder · Future Robotics Engineer · Nigeria 🇳🇬
+### 300L Computer Science Student · AI Builder · Future Robotics Engineer · Nigeria 🇳🇬
 
 *Learning to build AI-powered robots that solve real African problems*
 
@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-I'm a 17-year-old 300L CS student on a mission to become a robotics engineer. I've wanted to build robots since I was a kid – machines that move, think, and make life easier.
+I'm a 300L CS student on a mission to become a robotics engineer. I've wanted to build robots since I was a kid – machines that move, think, and make life easier.
 
 Right now, I'm building the foundation: **DSA, mathematics, AI, and robotics fundamentals** – learning everything I need to turn that childhood dream into reality.
 
 **Current Focus:** Building **TracelyAI** – an AI-powered waste sorting system for Nigeria. It's my training ground for combining software (computer vision) with hardware (robotics).
 
-**Journey:** Day 76/100 of #100DaysOfBuildingAI 🔥
+**Journey:** Day 92/100 of #100DaysOfBuildingAI 🔥
 
 ---
 
@@ -51,7 +51,7 @@ Building an AI system that detects and classifies waste materials (plastic, alum
 
 ---
 
-## 📚 Learning Journey (Day 76/100)
+## 📚 Learning Journey (Day 92/100)
 
 **What I'm Currently Learning:**
 
@@ -141,7 +141,7 @@ Building an AI system that detects and classifies waste materials (plastic, alum
 
 | Goal | Progress | Target |
 |------|----------|--------|
-| 🎓 Complete #100DaysOfBuildingAI | Day 76/100 | Day 100 |
+| 🎓 Complete #100DaysOfBuildingAI | Day 92/100 | Day 100 |
 | 🔗 Master DSA Fundamentals | 📚 Learning | Solid foundation |
 | 🧮 Learn Linear Algebra & Calculus | 📚 In Progress | Deep understanding |
 | 🤖 Complete Arduino Simulations | 📋 Starting | 10+ projects |
@@ -185,6 +185,6 @@ I'm always open to:
 
 ---
 
-*Last Updated: November 2025 · Day 76 of #100DaysOfBuildingAI*
+*Last Updated: November 2025 · Day 92 of #100DaysOfBuildingAI*
 
 </div>
