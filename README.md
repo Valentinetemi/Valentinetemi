@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Temiloluwa Valentine
+# 👋 Temiloluwa Valentine
 
-### 300L Computer Science Student · AI Builder · Future Robotics Engineer · Nigeria 🇳🇬
+### AI Engineer & Founder | Computer Science Student (300L) | Nigeria 🇳🇬
 
-*Learning to build AI-powered robots that solve real African problems*
+*Building AI-powered robotics solutions for African infrastructure challenges*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/temiloluwa-valentine-005882293/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/temivalentine_)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/temivalentine_)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temiloluwa1402@gmail.com)
 
 </div>
@@ -16,175 +16,175 @@
 
 ## 🚀 About Me
 
-I'm a 300L CS student on a mission to become a robotics engineer. I've wanted to build robots since I was a kid – machines that move, think, and make life easier.
+I'm a 300L Computer Science student and AI engineer focused on building robotics solutions for real-world African problems. My approach: **learn aggressively, build in public, ship real solutions.**
 
-Right now, I'm building the foundation: **DSA, mathematics, AI, and robotics fundamentals** – learning everything I need to turn that childhood dream into reality.
+Currently building **TracelyAI** — an AI-powered waste sorting system designed to automate recycling infrastructure across Africa.
 
-**Current Focus:** Building **TracelyAI** – an AI-powered waste sorting system for Nigeria. It's my training ground for combining software (computer vision) with hardware (robotics).
-
-**Journey:** Day 92/100 of #100DaysOfBuildingAI 🔥
+**100 Days of Building Complete** ✅ — Shipped proof-of-concept, trained detection models, and learned robotics fundamentals.
 
 ---
 
-## 💼 What I'm Building
+## 🎯 Current Mission: TracelyAI
 
-### 🤖 TracelyAI – AI Brain for Waste Sorting Robots
+### The Problem
+Nigeria generates **32+ million tonnes of waste annually** but recycles less than 20%. Manual sorting is expensive, unsafe, and inefficient. Waste management facilities need scalable automation.
 
-**The Problem:**  
-Nigeria generates **32+ million tonnes** of waste annually but recycles less than 20%. Most facilities use manual sorting or can't operate because automation is too expensive.
+### The Solution
+Building an AI + robotics system that:
+- Detects and classifies waste materials (plastic, aluminum, glass, paper, etc.)
+- Powers automated sorting robots
+- Operates at scale with minimal manual labor
+- Creates safer working conditions for waste workers
 
-**The Solution:**  
-Building an AI system that detects and classifies waste materials (plastic, aluminum, glass) – the "brain" that will eventually power automated sorting robots.
+### What's Built
+✅ **AI Detection Model** — YOLOv8 trained on 20,000+ Nigerian waste images  
+✅ **Computer Vision Pipeline** — Image preprocessing, augmentation, real-time inference  
+✅ **System Architecture** — Full technical design for AI + hardware integration  
+✅ **Hardware Simulation** — Arduino and robotics simulations in Webots  
+✅ **Market Validation** — Demand confirmed with waste management facilities  
 
-**Current Stage:**
-- ✅ Built proof-of-concept YOLOv8 detection model
-- 🔄 Training on Nigerian waste data
-- 📚 Learning robotics fundamentals (Arduino, servos, mechanics)
-- 🎯 Goal: Complete AI + hardware simulation by Day 100
+### Current Phase: Hardware
+Moving from software to physical prototypes. Building Arduino systems, sensor integration, robotic arms, and conveyor systems. From simulation to production.
 
 <div align="center">
 
-[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/RFjJ0TAUlVM?si=UScNILbmCq4xMvZB)
-[![TracelyAI Repo](https://img.shields.io/badge/💻_TracelyAI_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Valentinetemi/tracely-ai)
+[![GitHub Repo](https://img.shields.io/badge/💻_Code_&_Docs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Valentinetemi/tracely-ai)
+[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/RFjJ0TAUlVM?si=UScNILbmCq4xMvZB)
 
 </div>
 
 ---
 
-## 📚 Learning Journey (Day 92/100)
+## 💡 Why This Matters
 
-**What I'm Currently Learning:**
+**Impact:** Cleaner cities, safer workers, functional circular economies, environmental sustainability  
+**Market:** Nigeria's waste opportunity is $2B+. Africa's is significantly larger.  
+**Timing:** African infrastructure is being built now. This is the moment.
 
-### 🧮 Mathematics Foundations
-- Linear Algebra (vectors, matrices, transformations)
-- Calculus (derivatives, gradients, optimization)
-- Why: 80% of ML and robotics is mathematical optimization
-
-### 🔗 Data Structures & Algorithms
-- Implementing DSA concepts from my 300L CS course
-- Building: Linked Lists, Trees, Graphs, DP, etc.
-- Pushing daily implementations to GitHub
-
-### 🤖 Robotics Fundamentals  
-- Arduino programming and simulations
-- Servo motor control
-- Sensor integration
-- Path planning algorithms
-
-### 👁️ Computer Vision & ML
-- YOLOv8 object detection
-- Image preprocessing and augmentation
-- Model training and optimization
-- Real-time inference
-
-**Approach:** Foundation first. Build deep knowledge so when I build the complete robot, it's built right.
+More than the market size — I'm solving a real problem for real people in my country.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### AI & Machine Learning
+- **Computer Vision:** YOLOv8, OpenCV, image processing
+- **Frameworks:** TensorFlow, PyTorch
+- **Data:** Training pipelines, augmentation, annotation (Roboflow)
+- **Languages:** Python, Jupyter notebooks
+
+### Robotics & Hardware
+- Arduino programming and sensor integration
+- Servo motor control and mechanical simulation
+- Path planning and control systems
+- Webots simulation environment
+
+### Software Engineering
+- **Backend:** Python, Flask
+- **Frontend:** React, Next.js, TypeScript
+- **Tools:** Git, GitHub, VS Code, Google Colab
+- **Core:** Data structures, algorithms, system design
+
+---
+
+## 📂 Key Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🤖 **TracelyAI** | AI-powered waste sorting system | 🔄 Hardware Phase |
+| 🔗 **DSA & Algorithms** | Daily implementations from CS curriculum | ✅ Complete |
+| 🧮 **Math for ML/Robotics** | Linear algebra, calculus, optimization | ✅ Complete |
+| 🤖 **Arduino & Robotics** | Hardware simulations and control | 🔄 In Progress |
+
+---
+
+## 🎓 Learning & Development
+
+**Completed:**
+- 100 Days of Building AI (#100DaysOfBuildingAI) ✅
+- Data Structures & Algorithms fundamentals ✅
+- Mathematics for ML (linear algebra, calculus) ✅
+- YOLOv8 model training and optimization ✅
+- Arduino and basic robotics ✅
+
+**In Progress:**
+- Hardware prototype development
+- Advanced robotics (ROS, path planning)
+- Fundraising and scaling
+
+---
+
+## 📊 By The Numbers
+
+- **20,000+** Nigerian waste images trained on
+- **90%+** target accuracy for waste detection
+- **100 Days** of consistent building and learning
+- **53+ days** GitHub commit streak
+- **Self-taught** programmer since childhood
+
+---
+
+## 🌐 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
-
-### Robotics & Hardware (Learning)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-## 📂 Repository Overview
+## 🔍 What I'm Looking For
 
-| Repo | Description | Status |
-|------|-------------|--------|
-| 🤖 [tracely-ai](https://github.com/Valentinetemi/tracely-ai) | AI-powered waste sorting system | 🔄 Active |
-| 🔗 dsa-implementations | Daily DSA practice from 300L CS course | 🔄 Active |
-| 🧮 math-for-ml | Mathematics foundations for ML/Robotics | 🔄 Active |
-| 🤖 arduino-simulations | Learning robotics without hardware | 📋 Coming Soon |
-| 📝 100-days-of-ai | Daily reflections and learnings | 📋 Coming Soon |
+- **Partnerships** with waste management facilities for pilot testing
+- **Mentors** who've built hardware startups or scaled infrastructure tech
+- **Investors** who believe African founders can solve African problems
+- **Engineers & collaborators** interested in robotics or climate tech
 
 ---
 
-## 📊 GitHub Stats
+## 📝 My Approach
 
-<div align="center">
+**Build in public.** Document the entire journey — technical challenges, failures, breakthroughs, learnings. This is how I learn fastest and how I can help others building similar things.
 
-![Valentine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valentinetemi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+**Foundation first.** Strong fundamentals in math, algorithms, and system design before tackling complex hardware. This is what separates working systems from broken ones.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Valentinetemi&theme=tokyonight&hide_border=true&background=1a1b27)
-
-</div>
+**Impact always.** Every line of code, every project, every decision is guided by the impact it creates.
 
 ---
 
-## 🎯 Current Goals (Days 76-100)
+## 🌍 Let's Connect
 
-| Goal | Progress | Target |
-|------|----------|--------|
-| 🎓 Complete #100DaysOfBuildingAI | Day 92/100 | Day 100 |
-| 🔗 Master DSA Fundamentals | 📚 Learning | Solid foundation |
-| 🧮 Learn Linear Algebra & Calculus | 📚 In Progress | Deep understanding |
-| 🤖 Complete Arduino Simulations | 📋 Starting | 10+ projects |
-| 🧠 Improve TracelyAI Model | 🔄 Training | 90%+ accuracy |
-| 💻 Daily GitHub Commits | ✅ Consistent | 53 days streak |
-| 📝 Weekly Blog Posts | ✅ Active | Every week |
+I'm always interested in:
+- Collaborating with other builders solving hard problems
+- Learning from experienced engineers and founders
+- Discussing AI, robotics, infrastructure, or climate tech
+- Sharing what I'm building and learning
 
----
-
-## 🌱 What I Believe
-
-> "The best way to predict the future is to build it."
-
-I'm not waiting until I have perfect knowledge or resources. I'm learning by building, documenting the journey, and improving every single day.
-
-**Robots have been my dream since childhood.** TracelyAI is where that dream meets reality – learning AI, robotics, and problem-solving while tackling one of Nigeria's biggest infrastructure challenges.
-
-Foundation first. Hardware next. Impact always.
-
----
-
-## 📬 Let's Connect
-
-I'm always open to:
-- 🤝 Collaborating with other builders
-- 💡 Learning from experienced engineers
-- 🌍 Discussing AI, robotics, or waste management
-- 📚 Sharing what I'm learning
-
-**Building in public.** Follow the journey on [LinkedIn](https://www.linkedin.com/in/temiloluwa-valentine-005882293/) or [Twitter/X](https://x.com/temivalentine_).
+**Follow the journey:**
+- [LinkedIn](https://www.linkedin.com/in/temiloluwa-valentine-005882293/) — Updates and insights
+- [X/Twitter](https://x.com/temivalentine_) — Daily thoughts and progress
+- [GitHub](https://github.com/Valentinetemi) — Code and projects
 
 ---
 
 <div align="center">
 
-## 🌍 Building from Nigeria
+## 🚀 Building from Nigeria
 
-![Location](https://img.shields.io/badge/📍Nigeria-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white)
+**"The best way to predict the future is to build it."**
 
-**"Learning to build robots that solve real problems."** 🤖♻️
+Currently fundraising for hardware development. Building TracelyAI in public.
+
+![Nigeria](https://img.shields.io/badge/📍_Nigeria-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white)
 
 ---
 
-*Last Updated: November 2025 · Day 92 of #100DaysOfBuildingAI*
+*Building AI-powered robots that solve real African problems.* 🤖♻️
 
 </div>
