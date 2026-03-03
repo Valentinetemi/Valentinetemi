@@ -1,56 +1,60 @@
+
 <div align="center">
 
 # Temiloluwa Valentine
 
-### Computer Vision Engineer | AI/ML Developer | Building in Public
+### 🔍 Computer Vision Engineer | AI/ML Developer | Building in Public
 
 ---
 
-**Designing and deploying real-world computer vision systems.**
+**Building computer vision solutions that matter.**
 
-20,000+ images trained on. Detection pipelines built. Models shipped.
+Trained on 20,000+ images. Built detection systems. Shipped real projects.
 
-I document the process — research insights, architecture decisions, dataset challenges, and deployment realities.
-
----
-
-## 🎯 Current Work
-
-🔹 Sign Language Recognition  
-Hand detection + gesture classification pipeline  
-
-🔹 Object Detection Systems  
-Real-world CV models optimized for practical use  
-
-🔹 Technical Research & Writing  
-Breaking down AI papers and implementation details
+I document the entire journey — research papers, technical breakdowns, no filter.
 
 ---
 
-## 🛠️ Stack
+## 🎯 Current Focus
 
-**Core:** Python • PyTorch • TensorFlow • OpenCV • YOLO  
-**Workflow:** Git • Jupyter • Colab • VS Code  
-**Focus Areas:** Computer Vision • Detection • Classification • Model Optimization
+**Sign Language Recognition** — Hand detection + gesture classification
 
----
+**Object Detection** — Real-world computer vision solutions
 
-## 📈 Progress
-
-- 20,000+ training images processed  
-- Targeting 90%+ accuracy benchmarks  
-- 100 Days of Building AI ✅  
-- Multiple end-to-end CV projects deployed  
+**Research & Documentation** — Making AI accessible through detailed writeups
 
 ---
 
-## 🌍 Open To
+## 🛠️ Tech Stack
 
-Freelance CV projects  
-Research collaborations  
-Technical partnerships  
+**AI/ML:** Python • TensorFlow • PyTorch • OpenCV • YOLO
+
+**Tools:** Git • GitHub • Jupyter • Google Colab • VS Code
+
+**Skills:** Computer Vision • Object Detection • Image Classification • Model Training
 
 ---
+
+## 📊 By The Numbers
+
+- 20,000+ images trained on
+- 90%+ target accuracy
+- 100 Days of Building AI ✅
+- Multiple CV projects shipped
+
+---
+
+## 🌍 Let's Connect
+
+💼 Open for freelance CV projects
+
+📝 Building in public on LinkedIn & Twitter
+
+🤝 Always interested in real collaborations
+
+---
+
+**_"The best way to predict the future is to build it."_**
 
 Building from Nigeria 🇳🇬
 
