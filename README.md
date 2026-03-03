@@ -1,61 +1,56 @@
-
 <div align="center">
 
-# Temiloluwa Valentine
-
-### 🔍 Computer Vision Engineer | AI/ML Developer | Building in Public
-
----
-
-**Building computer vision solutions that matter.**
-
-Trained on 20,000+ images. Built detection systems. Shipped real projects.
-
-I document the entire journey — research papers, technical breakdowns, no filter.
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Temiloluwa+Valentine;Computer+Vision+Engineer;AI%2FML+Developer;Building+in+Public+%F0%9F%9A%80" />
 
 ---
 
-## 🎯 Current Focus
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,100:3A0CA3&height=120&section=header"/>
 
-**Sign Language Recognition** — Hand detection + gesture classification
+### Designing & Deploying Real-World Computer Vision Systems
 
-**Object Detection** — Real-world computer vision solutions
+20,000+ images trained • Detection pipelines built • Models shipped  
 
-**Research & Documentation** — Making AI accessible through detailed writeups
+Building from Nigeria 🇳🇬
+
+---
+
+## 🚀 Current Focus
+
+🔹 **Sign Language Recognition**  
+🔹 **Object Detection Systems**  
+🔹 **AI Research & Technical Writing**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI/ML:** Python • TensorFlow • PyTorch • OpenCV • YOLO
-
-**Tools:** Git • GitHub • Jupyter • Google Colab • VS Code
-
-**Skills:** Computer Vision • Object Detection • Image Classification • Model Training
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 By The Numbers
+## 📊 GitHub Analytics
 
-- 20,000+ images trained on
-- 90%+ target accuracy
-- 100 Days of Building AI ✅
-- Multiple CV projects shipped
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
+
+---
+
+## 📈 Most Used Languages
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
 ## 🌍 Let's Connect
 
-💼 Open for freelance CV projects
-
-📝 Building in public on LinkedIn & Twitter
-
-🤝 Always interested in real collaborations
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURLINK)
+[![Twitter](https://img.shields.io/badge/Twitter-BuildingInPublic-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YOURHANDLE)
 
 ---
 
-**_"The best way to predict the future is to build it."_**
-
-Building from Nigeria 🇳🇬
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,100:7F3FBF&height=120&section=footer"/>
 
 </div>
