@@ -1,7 +1,6 @@
-<!-- Typing SVG -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1200&color=f5a9c4&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Temi+%F0%9F%8C%B8;Computer+Vision+Engineer+%E2%9C%A8;AI+%26+ML+Developer+%F0%9F%A4%96;Technical+Writer+%F0%9F%96%8A%EF%B8%8F;Building+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&pause=1200&color=f5a9c4&center=true&vCenter=true&width=750&height=65&lines=Hi+there%2C+I'm+Temi+%F0%9F%8C%B8;Computer+Vision+Engineer+%E2%9C%A8;AI+%26+ML+Developer+%F0%9F%A4%96;I+build+things+that+see%2C+think+%26+work+%F0%9F%92%AB" alt="Typing SVG" />
 
 <br/>
 
@@ -35,17 +34,17 @@
 
 <img align="right" width="240" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-### 🌸 &nbsp; About Me
+### 🌸 &nbsp; What I Do
 
-I'm a Computer Science student at building intelligent systems, designing clean web experiences, and writing about AI to make it accessible for everyone.
+I'm a **Computer Vision Engineer** and **AI/ML Developer** based in Nigeria — I design and build intelligent systems that see, detect, and understand the world using machine learning.
 
-I sit at the intersection of **computer vision**, **machine learning**, and **web development** — turning curiosity into real, working things.
+From real-time object detection pipelines to interactive CV applications and full-stack web products, I bring ideas to life end-to-end — clean, functional, and production-ready.
 
-- 🌍 &nbsp; Based in Nigeria
-- 🔭 &nbsp; Currently building a **Sign Language Recognition Model** for the deaf community
+- 👁 &nbsp; Specialised in **object detection, image recognition & real-time CV**
+- 🌍 &nbsp; Available for **freelance AI & computer vision projects**
+- 🔭 &nbsp; Currently building a **Sign Language Recognition Model** for the deaf
 - ✍🏽 &nbsp; I write about AI & CV on Medium & Dev.to
-- 💌 &nbsp; Open to collaborations, research & opportunities
-- ✨ &nbsp; Firm believer that tech should be beautiful *and* useful
+- 💌 &nbsp; Open to collaborations, contracts & research work
 
 <br clear="right"/>
 
@@ -93,9 +92,9 @@ I sit at the intersection of **computer vision**, **machine learning**, and **we
 
 | &nbsp; | Project | Description |
 |---|---------|-------------|
-| 🤟 | **Sign Language Recognition** *(in progress)* | Building a real-time model to recognise sign language for the deaf community |
-| 🕸️ | [**Spider Web Hand Tracker**](https://github.com/Valentinetemi/spider-web-hand-tracker) | Real-time hand tracking that renders a glowing spider-web mesh between fingertips |
-| ✍🏽 | [**Neon Air Writer**](https://github.com/Valentinetemi/neon-hand-drawing) | Write in the air with your finger — watch it appear on screen in neon light |
+| 🤟 | **Sign Language Recognition** *(in progress)* | Real-time model to recognise sign language for the deaf community |
+| 🕸️ | [**Spider Web Hand Tracker**](https://github.com/Valentinetemi/spider-web-hand-tracker) | Hand tracking that renders a glowing spider-web mesh between fingertips |
+| ✍🏽 | [**Neon Air Writer**](https://github.com/Valentinetemi/neon-hand-drawing) | Write in the air with your finger — appears on screen in neon light |
 | 🎨 | [**Color Detector**](https://github.com/Valentinetemi/color-detector-yellow) | Real-time color detection and tracking via webcam |
 | 🐄 | [**Cow Detection Dataset**](https://github.com/Valentinetemi/cow-detection-dataset) | Annotated livestock dataset for object detection research |
 
@@ -119,9 +118,9 @@ I sit at the intersection of **computer vision**, **machine learning**, and **we
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Valentinetemi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&title_color=f5a9c4&text_color=fce4f5&icon_color=f9b8d4&bg_color=2a1a2e" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Valentinetemi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=f5a9c4&text_color=fce4f5&icon_color=f9b8d4&bg_color=2a1a2e" width="47%" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentinetemi&layout=compact&hide_border=true&theme=catppuccin_mocha&title_color=f5a9c4&text_color=fce4f5&bg_color=2a1a2e&langs_count=6" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentinetemi&layout=compact&hide_border=true&title_color=f5a9c4&text_color=fce4f5&bg_color=2a1a2e&langs_count=6" width="40%" />
 
 </div>
 
@@ -133,14 +132,12 @@ I sit at the intersection of **computer vision**, **machine learning**, and **we
 
 ### 🌷 &nbsp; Writing
 
-I write about computer vision, machine learning, and AI — making complex topics clear and accessible.
+I write about computer vision, machine learning, and AI — making complex topics clear and accessible for developers at every level.
 
 📖 &nbsp; **[Medium](https://medium.com/@temiloluwaval)** &nbsp;·&nbsp; **[Dev.to](https://dev.to/temiloluwavalentine)**
 
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=14&pause=1200&color=f5a9c4&center=true&vCenter=true&width=500&height=30&lines=✿+open+to+work+%2C+collaborations+%26+new+ideas+✿" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=14&pause=1200&color=f5a9c4&center=true&vCenter=true&width=500&height=30&lines=✿+available+for+freelance+AI+%26+CV+work+✿+let's+build+something+beautiful" />
 </div>
