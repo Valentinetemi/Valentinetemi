@@ -1,86 +1,120 @@
 <div align="center">
-  <!-- Waving header with gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Temiloluwa%20Valentine&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-  <!-- Advanced Typing Animation (more dynamic) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=7F3FBF&center=true&vCenter=true&width=700&height=80&lines=Computer+Vision+Engineer;AI%2FML+Developer;Sign+Language+%26+Object+Detection+Specialist;Building+Real-World+AI+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;20%2C000%2B+images+trained+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Temiloluwa%20Valentine&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Computer%20Vision%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descAlignY=58&descSize=16&descColor=c9b8ff" />
 
-  <br/>
+</div>
 
-  <!-- Pixel-like "ENTER THE MATRIX" vibe badge row -->
-  <img src="https://img.shields.io/badge/Level-Computer%20Vision%20Master-7F3FBF?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Level-Over%209000-3A0CA3?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Players%20Visited&color=7F3FBF&style=for-the-badge&logo=starship" />
-  <img src="https://img.shields.io/github/followers/YOURUSERNAME?color=7F3FBF&label=Followers&logo=github&style=for-the-badge" />
+<br/>
 
-  <hr width="60%" color="#7F3FBF" />
+<div align="center">
 
-  ## 🌌 QUEST: Designing & Deploying Real-World CV Systems
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=20,000+%2B%20images%20trained%20%E2%80%A2%20Pipelines%20Shipped%20%E2%80%A2%20Models%20in%20Production&fontSize=22&fontColor=fff&animation=blink" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Temiloluwa%20Valentine-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURLINK)
+[![Twitter](https://img.shields.io/badge/Twitter-@YOURHANDLE-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOURHANDLE)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=302b63&style=flat-square)](https://github.com/YOURUSERNAME)
 
-  > Building next-gen AI from **Ibadan, Nigeria** 🇳🇬  
-  > Currently grinding levels in: **Sign Language Recognition** | **Object Detection** | **AI Research & Technical Writing**
+</div>
 
-  <hr width="60%" color="#7F3FBF" />
+---
 
-  ## 🎮 POWER-UPS / Tech Stack
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,github,vscode,linux,fastapi,docker&perline=7" />
-  </p>
+### About
 
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-  </p>
+I'm a Computer Science student at Summit University, Nigeria, building AI systems that solve real infrastructure problems on the African continent. My work sits at the intersection of **computer vision**, **robotics**, and **applied ML** — moving fast from research to production.
 
-  <hr width="60%" color="#7F3FBF" />
+Currently developing **TracelyAI**, an AI-powered robotic waste sorting system trained on 20,000+ images, combining YOLO-based object detection with robotic automation to address Nigeria's waste management crisis.
 
-  ## 📊 PLAYER STATISTICS
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7F3FBF&text_color=ffffff&icon_color=7F3FBF" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=7F3FBF&fire=7F3FBF&ring=7F3FBF&currStreakNum=ffffff&sideNums=7F3FBF" />
-      </td>
-    </tr>
-  </table>
+```python
+focus = ["Computer Vision", "Object Detection", "Robotic Automation", "ML Pipelines"]
+currently_building = "TracelyAI — AI-powered waste sorting robot 🤖"
+open_to = ["Collaborations", "Research", "Internships"]
+```
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F3FBF&text_color=ffffff" width="60%" />
+---
 
-  <!-- Optional: GitHub Trophy (adds game achievement feel) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" />
+### 🛠 Tech Stack
 
-  <!-- Snake game on contribution graph - classic "game" element -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" width="80%" />
-  </picture>
+**Languages & Frameworks**
 
-  <small>Watch the snake eat your contributions 🔥</small>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-  <hr width="60%" color="#7F3FBF" />
+**Tools & Platforms**
 
-  ## 🌐 JOIN THE SERVER / Let's Connect
-  <p align="center">
-    <a href="https://linkedin.com/in/YOURLINK">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect%20%F0%9F%91%8B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/YOURHANDLE">
-      <img src="https://img.shields.io/badge/Twitter-Building%20In%20Public-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://github.com/YOURUSERNAME">
-      <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Webots](https://img.shields.io/badge/Webots-Robotics%20Sim-302b63?style=flat-square)
 
-  <!-- Footer wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
+**Specialisations**
 
-  <br/>
-  <small>Level up together? Star ⭐ if you like the vibe!</small>
+![YOLO](https://img.shields.io/badge/YOLOv8-Object%20Detection-00BFFF?style=flat-square)
+![Sign Language](https://img.shields.io/badge/Sign%20Language%20Recognition-AI-7F3FBF?style=flat-square)
+![ML Pipelines](https://img.shields.io/badge/ML%20Pipelines-Production-302b63?style=flat-square)
+
+---
+
+### 📌 Featured Projects
+
+**🤖 Computer Vision**
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**TracelyAI**](https://github.com/Valentinetemi/tracely-ai) | AI-powered robotic waste sorting system — 20,000+ image dataset, YOLO + OpenCV pipeline | Python, YOLOv8, OpenCV |
+| [**TracelyAI Webots**](https://github.com/Valentinetemi/tracely-ai_webots) | Robotic automation simulation for TracelyAI's physical prototype | Python, Webots |
+| [**Spider Web Hand Tracker**](https://github.com/Valentinetemi/spider-web-hand-tracker) | Real-time hand tracking that draws a spider-web mesh between fingertips | Python, OpenCV, MediaPipe |
+| [**Neon Air Writer**](https://github.com/Valentinetemi/neon-hand-drawing) | Write in the air with your finger and watch it render on screen in neon | Python, OpenCV, MediaPipe |
+| [**Color Detector**](https://github.com/Valentinetemi/color-detector-yellow) | Real-time color detection and tracking via webcam | Python, OpenCV |
+| [**Cow Detection Dataset**](https://github.com/Valentinetemi/cow-detection-dataset) | Annotated dataset for livestock object detection | Python, Roboflow, YOLO |
+
+<br/>
+
+**🌐 Web Development**
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**FoodShare**](https://github.com/Valentinetemi/food-sharing-app) | Social web app — snap meals, log calories, like & comment on food posts | React, Supabase |
+| [**SnapBeauty**](https://github.com/Valentinetemi/SnapBeauty-Website) | Beauty brand website with clean UI | HTML, CSS, JS |
+| [**Exotique Cakes**](https://github.com/Valentinetemi/exotique-cakes) | Bakery website with elegant product showcase | HTML, CSS, JS |
+
+<br/>
+
+**🤖 AI / Chatbot**
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**ValBot AI**](https://github.com/Valentinetemi/VAL_BOT_AI) | Conversational AI chatbot built and trained from scratch | Python, NLP |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=c9b8ff&text_color=ffffff&icon_color=7F3FBF&hide=contribs" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&text_color=ffffff&langs_count=6" width="40%" />
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Building solutions for Africa, one model at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
 </div>
