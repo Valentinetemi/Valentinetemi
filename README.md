@@ -92,7 +92,6 @@ From real-time object detection pipelines to interactive CV applications and ful
 
 | Project | Description |
 |---------|-------------|
-| 🤟 **Sign Language Recognition** *(in progress)* | Real-time model to recognise sign language for the deaf community |
 | 🕸️ [**Spider Web Hand Tracker**](https://github.com/Valentinetemi/spider-web-hand-tracker) | Hand tracking that renders a spider-web mesh between fingertips in real time |
 | ✍🏽 [**Neon Air Writer**](https://github.com/Valentinetemi/neon-hand-drawing) | Write in the air with your finger — appears on screen in neon light |
 | 🎨 [**Color Detector**](https://github.com/Valentinetemi/color-detector-yellow) | Real-time color detection and tracking via webcam |
