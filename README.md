@@ -113,20 +113,6 @@ From real-time object detection pipelines to interactive CV applications and ful
 
 ---
 
-### ✦ &nbsp; GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Valentinetemi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0a12&title_color=f4a7b9&text_color=e8d5f5&icon_color=f4a7b9" width="47%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentinetemi&layout=compact&hide_border=true&bg_color=0d0a12&title_color=f4a7b9&text_color=e8d5f5&langs_count=6" width="40%" />
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Valentinetemi&no-frame=true&margin-w=10&row=1&column=6&theme=tokyonight" />
-</div>
-
 ---
 
 ### ✦ &nbsp; Writing
