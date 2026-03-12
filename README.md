@@ -42,7 +42,6 @@ From real-time object detection pipelines to interactive CV applications and ful
 
 - 👁 &nbsp; Specialised in **object detection, image recognition & real-time CV**
 - 🌍 &nbsp; Available for **freelance AI & computer vision projects**
-- 🔭 &nbsp; Currently building a **Sign Language Recognition Model** for the deaf
 - ✍🏽 &nbsp; I write about AI & CV on Medium & Dev.to
 - 💌 &nbsp; Open to collaborations, contracts & research work
 
