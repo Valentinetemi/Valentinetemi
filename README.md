@@ -17,9 +17,6 @@
     <img src="https://img.shields.io/badge/Medium-f4a7b9?style=flat-square&logo=medium&logoColor=1a0a0f" />
   </a>
   &nbsp;
-  <a href="https://dev.to/temiloluwavalentine">
-    <img src="https://img.shields.io/badge/Dev.to-e8d5f5?style=flat-square&logo=devdotto&logoColor=1a0a0f" />
-  </a>
   &nbsp;
   <a href="https://github.com/Valentinetemi">
     <img src="https://img.shields.io/badge/GitHub-f4a7b9?style=flat-square&logo=github&logoColor=1a0a0f" />
