@@ -24,9 +24,12 @@ AI & Computer Vision Engineer building real-world detection systems.
 
 ### ✍🏾 Latest Articles
 - [I Replaced 87,000 Images with 63 Numbers](https://temiloluwaval.medium.com/i-replaced-87-000-images-with-63-numbers-heres-how-i-built-a-sign-language-detector-404f73b3c3aa)
-- [Why I Chose 63 Numbers Over Millions of Pixels](https://temiloluwaval.medium.com/why-i-chose-63-numbers-over-millions-of-pixels-landmarks-vs-cnn-for-sign-detection-14e0f75a92f7)
+- [Why I Chose 63 Numbers Over Millions of Pixels](https://temiloluwaval.medium.com/why-i-chose-63-numbers-over-millions-of-pixels-landmarks-vs-cnn-for-sign-detection-14e0f75a9v2f7)
 
 ---
+![Grade](https://img.shields.io/badge/Grade-B-blue)
+---
+
 
 ### 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
