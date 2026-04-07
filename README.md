@@ -27,9 +27,6 @@ AI & Computer Vision Engineer building real-world detection systems.
 - [Why I Chose 63 Numbers Over Millions of Pixels](https://temiloluwaval.medium.com/why-i-chose-63-numbers-over-millions-of-pixels-landmarks-vs-cnn-for-sign-detection-14e0f75a9v2f7)
 
 ---
-![Grade](https://img.shields.io/badge/Grade-B-blue)
----
-
 
 ### 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
