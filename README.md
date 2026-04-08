@@ -35,4 +35,4 @@ AI & Computer Vision Engineer building real-world detection systems.
 
 ---
 
-*Open to freelance, collaborations and full-time roles* 
+*Open to freelance, collaborations and full-time roles.* 
