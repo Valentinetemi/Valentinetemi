@@ -1,6 +1,6 @@
 # Hi, I'm Temiloluwa Valentine 👋🏾
 
-AI & Computer Vision Engineer building real-world detection systems.
+AI & Computer Vision Engineer building real-world detection systems
 
 ---
 
